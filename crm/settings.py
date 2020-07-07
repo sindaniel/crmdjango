@@ -25,7 +25,7 @@ SECRET_KEY = '7_@-19*-!i9z4%aa_g*$ekh-y7wzbammr3p2u!6r^plnftismz'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['geopaksolutions.com']
 
 
 # Application definition
